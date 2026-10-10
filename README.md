@@ -1,4 +1,3 @@
-# gym-project 
 <!DOCTYPE html>
 <html lang="ru">
 <head>
